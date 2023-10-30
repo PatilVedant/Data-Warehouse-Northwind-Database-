@@ -1,0 +1,6 @@
+version: 2
+
+models:
+  - name: order_sales
+    description: The order sales fact table combined with all of its outrigger dimensions into one bit table.
+ 
